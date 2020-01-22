@@ -1,5 +1,5 @@
 
-# Collabnix - Docker | Kubernetes | Cloud | Karthik
+# Collabnix - Docker | Kubernetes | Cloud | Karthik | Sangeeta
 
 # Docker Swarm Mode
 
